@@ -111,6 +111,42 @@ document.addEventListener('DOMContentLoaded', () => {
             }
         });
     }
+
+    // 7. WhatsApp Chat Screenshots Swiper (Large: 3, Medium: 2, Small: 1)
+    if (typeof Swiper !== 'undefined' && document.querySelector('.whatsapp-ss-swiper')) {
+        new Swiper('.whatsapp-ss-swiper', {
+            slidesPerView: 1,
+            spaceBetween: 20,
+            loop: true,
+            autoplay: {
+                delay: 3500,
+                disableOnInteraction: false,
+            },
+            pagination: {
+                el: '.whatsapp-ss-swiper .swiper-pagination',
+                clickable: true,
+            },
+            navigation: {
+                nextEl: '.whatsapp-ss-swiper .swiper-button-next',
+                prevEl: '.whatsapp-ss-swiper .swiper-button-prev',
+            },
+            breakpoints: {
+                0: {
+                    slidesPerView: 1,
+                    spaceBetween: 16
+                },
+                768: {
+                    slidesPerView: 2,
+                    spaceBetween: 24
+                },
+                992: {
+                    slidesPerView: 3,
+                    spaceBetween: 28
+                }
+            }
+        });
+    }
+
 });
 
 // Interactive Service Modal Helper

@@ -1209,3 +1209,55 @@ h6,
 ::-webkit-scrollbar-thumb:hover {
     background: var(--bg-bhagwa);
 }
+
+/* ==========================================================================
+   Real Clients WhatsApp Chats Section Styles
+   ========================================================================== */
+.whatsapp-ss-swiper .swiper-slide {
+    transition: var(--transition-smooth);
+}
+
+.whatsapp-ss-swiper .glass-card:hover {
+    border-color: rgba(37, 211, 102, 0.6);
+    box-shadow: 0 15px 35px rgba(37, 211, 102, 0.25), 0 0 25px rgba(244, 210, 122, 0.15);
+    transform: translateY(-4px);
+}
+
+.whatsapp-ss-swiper .swiper-pagination-bullet {
+    background: var(--bg-antique-gold);
+    opacity: 0.4;
+    transition: var(--transition-smooth);
+}
+
+.whatsapp-ss-swiper .swiper-pagination-bullet-active {
+    background: var(--bg-bhagwa);
+    opacity: 1;
+    width: 28px;
+    border-radius: 12px;
+}
+
+.whatsapp-ss-swiper .swiper-button-next,
+.whatsapp-ss-swiper .swiper-button-prev {
+    color: var(--bg-warm-gold) !important;
+    background: rgba(37, 8, 13, 0.85);
+    border: 1px solid var(--bg-antique-gold);
+    width: 44px;
+    height: 44px;
+    border-radius: 50%;
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.5);
+    transition: var(--transition-smooth);
+}
+
+.whatsapp-ss-swiper .swiper-button-next::after,
+.whatsapp-ss-swiper .swiper-button-prev::after {
+    font-size: 1rem !important;
+    font-weight: bold;
+}
+
+.whatsapp-ss-swiper .swiper-button-next:hover,
+.whatsapp-ss-swiper .swiper-button-prev:hover {
+    background: var(--bg-bhagwa);
+    color: #FFF !important;
+    border-color: var(--bg-warm-gold);
+    transform: scale(1.1);
+}
