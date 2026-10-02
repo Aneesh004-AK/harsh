@@ -1,0 +1,794 @@
+Create a **premium, modern Hindu Vedic Astrology website** for:
+
+# BRAND INFORMATION
+
+**Brand Name:** ASTROLOGER HARSH BHARGAVA
+**Phone / WhatsApp:** +91-8289046015
+
+**Logo:** A logo has already been provided inside the project's **images folder**.
+Use that exact logo throughout the website.
+
+IMPORTANT:
+
+* Do NOT recreate the logo.
+* Do NOT generate a different logo.
+* Locate the provided logo inside the `images` folder and use it.
+* Preserve its original proportions and appearance.
+* Create both light/dark presentation treatments only if required, without modifying the actual logo design.
+* Use the logo in the navbar, mobile menu and footer where appropriate.
+
+---
+
+# REFERENCE WEBSITE
+
+Use this website as design and structural inspiration:
+
+https://astrologernakulshastri.com/
+
+Study the reference for:
+
+* Section structure
+* Content hierarchy
+* Animation style
+* Hero composition
+* Astrology storytelling
+* CTA placement
+* Service presentation
+* Scroll interactions
+* Overall premium feel
+
+IMPORTANT:
+
+Do NOT copy the reference website's:
+
+* Text
+* Logo
+* Branding
+* Images
+* Exact layouts
+* Exact visual assets
+
+Create an **original website for Astrologer Harsh Bhargava**, inspired by the quality and overall experience of the reference.
+
+---
+
+# CORE DESIGN CONCEPT
+
+The website should feel like:
+
+**Ancient Hindu / Vedic Wisdom × Modern Luxury Digital Experience**
+
+Visual keywords:
+
+**Bhagwa • Vedic • Spiritual • Premium • Elegant • Mystical • Trustworthy • Modern • Indian**
+
+Avoid the generic blue/purple "astrology website" aesthetic.
+
+The dominant colors MUST be:
+
+**Bhagwa Orange + Deep Maroon + Antique Gold + Black + Warm Cream**
+
+---
+
+# COLOR PALETTE
+
+### Bhagwa / Saffron
+
+`#F26A21`
+
+Main brand accent and CTA color.
+
+### Deep Bhagwa
+
+`#C94B16`
+
+### Burnt Saffron
+
+`#9E3D16`
+
+### Deep Maroon
+
+`#4A0F16`
+
+### Dark Maroon
+
+`#25080D`
+
+### Charcoal Black
+
+`#100B09`
+
+### Antique Gold
+
+`#D6A84F`
+
+### Warm Gold
+
+`#F4D27A`
+
+### Warm Cream
+
+`#FFF1D2`
+
+---
+
+# GRADIENT SYSTEM
+
+Use elegant Hindu-inspired gradients.
+
+### Hero
+
+Black → Deep Maroon → Bhagwa Glow
+
+`#100B09 → #25080D → #7A2814`
+
+### Bhagwa
+
+Deep Saffron → Bhagwa Orange → Golden Orange
+
+`#9E3D16 → #F26A21 → #F4B942`
+
+### Royal Hindu
+
+Deep Maroon → Burnt Saffron → Antique Gold
+
+`#350910 → #9E3D16 → #D6A84F`
+
+### Spiritual Dark
+
+Black → Dark Maroon → Subtle Saffron
+
+`#080605 → #25080D → #5C2114`
+
+### CTA
+
+Bhagwa → Golden Saffron
+
+`#E85D18 → #F4A62A`
+
+Do NOT make the entire website orange. Use black and deep maroon as the foundation, with Bhagwa and gold used as premium accents.
+
+---
+
+# NAVIGATION
+
+Create a sticky premium navbar.
+
+Desktop:
+
+**[PROVIDED LOGO]**
+
+Navigation:
+
+Home
+About
+Services
+Why Us
+FAQ
+Contact
+
+Right side:
+
+**Book Consultation**
+
+Navbar before scroll:
+
+* Transparent
+* Subtle background blur
+
+Navbar after scroll:
+
+* Deep black/maroon glass
+* Antique gold bottom border
+* Slight backdrop blur
+
+Mobile:
+
+* Logo
+* Hamburger menu
+* Full-screen mobile navigation
+* Sticky bottom Call + WhatsApp actions
+
+---
+
+# HERO SECTION
+
+Create a cinematic, full-screen hero.
+
+Background:
+
+* Deep black
+* Dark maroon
+* Bhagwa radial glow
+* Subtle stars
+* Gold particles
+* Zodiac constellation
+* Very subtle sacred geometry
+* Slowly rotating mandala
+
+Use the **provided logo** where appropriate.
+
+Hero headline:
+
+**Discover What the Stars Reveal About Your Life**
+
+Highlight important words with Bhagwa/gold gradient.
+
+Supporting text:
+
+**Personalized Vedic astrology guidance for love, marriage, career, business, finance, relationships and important life decisions.**
+
+Small eyebrow:
+
+**VEDIC ASTROLOGY • COSMIC WISDOM • PERSONAL GUIDANCE**
+
+Primary CTA:
+
+**BOOK YOUR CONSULTATION**
+
+Secondary CTA:
+
+**CHAT ON WHATSAPP**
+
+Display prominently:
+
+**+91-8289046015**
+
+Trust indicators:
+
+**Personalized • Confidential • One-to-One Consultation**
+
+---
+
+# HERO VISUAL
+
+Create a premium astrologer portrait area.
+
+Behind the portrait:
+
+* Soft Bhagwa halo
+* Antique gold circular frame
+* Subtle mandala
+* Zodiac wheel
+* Floating gold particles
+
+Add very subtle orbital animation.
+
+Do not make it look like a fantasy game.
+
+It should feel like a premium Indian spiritual brand.
+
+---
+
+# INTRODUCTION
+
+Heading:
+
+**Guidance Written in the Language of the Stars**
+
+Create a sophisticated introductory section explaining personalized Vedic astrology consultation.
+
+Use an elegant two-column layout.
+
+Include:
+
+* Short introduction
+* Astrologer image
+* Gold decorative line
+* Subtle mandala background
+
+CTA:
+
+**Know More About Astrologer Harsh Bhargava**
+
+---
+
+# ASTROLOGY SERVICES
+
+Heading:
+
+**Vedic Astrology Services**
+
+Create premium interactive cards for:
+
+### Kundli / Birth Chart Reading
+
+Personalized interpretation of planetary positions and birth chart patterns.
+
+### Marriage & Compatibility
+
+Astrological guidance for relationships, compatibility and marriage.
+
+### Love & Relationships
+
+Explore relationship patterns and important periods through your birth chart.
+
+### Career & Business
+
+Gain perspective on professional opportunities, transitions and business decisions.
+
+### Financial Astrology
+
+Astrological perspective on financial cycles and important periods.
+
+### Gemstone Guidance
+
+Traditional astrological guidance regarding gemstones.
+
+### Vastu Consultation
+
+Traditional Vastu-based guidance for spaces and environments.
+
+### Numerology
+
+Numerological analysis as part of a broader spiritual consultation.
+
+### Dosha Analysis
+
+Explore traditional Vedic concepts such as Rahu-Ketu and other doshas.
+
+Cards should have:
+
+* Gold/Bhagwa icons
+* Deep maroon glass background
+* Gold border
+* Hover glow
+* 3D movement
+* Smooth reveal animation
+
+---
+
+# WHY ASTROLOGER HARSH BHARGAVA
+
+Heading:
+
+**Ancient Wisdom. Personal Guidance. Modern Perspective.**
+
+Create a premium split section.
+
+Left:
+Astrologer image / spiritual visual.
+
+Right:
+
+✓ Personalized birth-chart analysis
+✓ One-to-one consultation
+✓ Confidential conversations
+✓ Traditional Vedic approach
+✓ Clear and practical explanations
+✓ Guidance based on your individual questions
+
+Add a vertical antique-gold decorative line.
+
+---
+
+# ABOUT ASTROLOGER
+
+Create an elegant biography section.
+
+Heading:
+
+**Meet Astrologer Harsh Bhargava**
+
+Use the provided astrologer image if available in the images folder.
+
+Write original, professional copy.
+
+Do NOT invent:
+
+* Years of experience
+* Awards
+* Certifications
+* Celebrity clients
+* Number of consultations
+* Media appearances
+* Guaranteed results
+
+Only use factual information that is actually available in the project assets/content.
+
+---
+
+# ASTROLOGY PROCESS
+
+Heading:
+
+**Your Journey Through the Stars**
+
+Create a beautiful animated timeline.
+
+### 01
+
+**Share Your Birth Details**
+
+### 02
+
+**Birth Chart Analysis**
+
+### 03
+
+**Personal Consultation**
+
+### 04
+
+**Receive Clear Guidance**
+
+Use a glowing Bhagwa/gold line connecting the steps.
+
+Animate the line and steps as the user scrolls.
+
+---
+
+# NAVAGRAHA
+
+Heading:
+
+**The Nine Celestial Influences**
+
+Display:
+
+Surya
+Chandra
+Mangal
+Budh
+Guru
+Shukra
+Shani
+Rahu
+Ketu
+
+Create individual planetary cards.
+
+Use:
+
+* Glowing planetary orbs
+* Antique gold borders
+* Bhagwa highlights
+* Dark maroon backgrounds
+* Subtle orbital animations
+
+Keep the design elegant and educational.
+
+---
+
+# HINDU / VEDIC VISUAL LANGUAGE
+
+Throughout the website use subtle:
+
+* Mandala patterns
+* Yantra-inspired geometry
+* Zodiac symbols
+* Navagraha motifs
+* Lotus-inspired line art
+* Diya/flame-inspired decorative elements
+* Temple-arch shapes
+* Antique gold ornamental lines
+* Subtle Om symbol
+
+IMPORTANT:
+
+Use Hindu elements tastefully.
+
+Do NOT fill every section with religious symbols.
+
+The website should feel **premium and sophisticated**, not cluttered.
+
+---
+
+# TESTIMONIALS
+
+Heading:
+
+**Experiences Shared by Our Clients**
+
+Create a smooth horizontal testimonial carousel.
+
+Use placeholder testimonials only if actual testimonials are not provided.
+
+Do not invent claims involving:
+
+* Guaranteed marriage
+* Guaranteed wealth
+* Guaranteed success
+* Medical cures
+* Supernatural guarantees
+
+Focus testimonials on:
+
+* clarity
+* personalized attention
+* consultation experience
+* understanding of the birth chart
+* helpful guidance
+
+---
+
+# FAQ
+
+Create animated accordion FAQ.
+
+Questions:
+
+**What information is required for a Kundli reading?**
+
+**How does a Vedic astrology consultation work?**
+
+**Can I consult regarding marriage and relationships?**
+
+**Can astrology help with career decisions?**
+
+**Why is accurate birth time important?**
+
+**Can I have an online consultation?**
+
+**How long does a consultation take?**
+
+**How can I book a consultation?**
+
+---
+
+# FINAL CTA
+
+Create a dramatic full-width Bhagwa/maroon CTA section.
+
+Background:
+
+* Deep maroon
+* Black edges
+* Bhagwa radial glow
+* Gold particles
+* Large subtle zodiac circle
+* Mandala pattern
+
+Heading:
+
+**Your Questions Deserve a Deeper Perspective**
+
+Subheading:
+
+**Begin your personal Vedic astrology consultation with Astrologer Harsh Bhargava.**
+
+Primary CTA:
+
+**BOOK YOUR CONSULTATION**
+
+Secondary:
+
+**WHATSAPP +91-8289046015**
+
+---
+
+# CONTACT SECTION
+
+Heading:
+
+**Connect With Astrologer Harsh Bhargava**
+
+Display:
+
+**+91-8289046015**
+
+Create two prominent buttons:
+
+**CALL NOW**
+
+**WHATSAPP NOW**
+
+Create consultation form:
+
+Name
+Phone Number
+Date of Birth
+Time of Birth
+Place of Birth
+Area of Consultation
+Message
+
+Button:
+
+**REQUEST CONSULTATION**
+
+Use Bhagwa/gold styling.
+
+---
+
+# FOOTER
+
+Use a deep black/maroon footer.
+
+Display:
+
+**[PROVIDED LOGO]**
+
+**ASTROLOGER HARSH BHARGAVA**
+
+Vedic Astrology • Spiritual Guidance • Personal Consultation
+
+Phone:
+
+**+91-8289046015**
+
+Links:
+
+Home
+About
+Services
+Zodiac
+FAQ
+Contact
+
+Add a subtle antique-gold ornamental divider.
+
+Disclaimer:
+
+**Astrology is a traditional system of belief and guidance. Consultations are intended for personal reflection and guidance and should not replace professional medical, legal or financial advice.**
+
+---
+
+# ANIMATION DIRECTION
+
+The website MUST feel animated and modern.
+
+Use:
+
+* Scroll reveal
+* Fade-up animations
+* Smooth parallax
+* Floating Bhagwa particles
+* Gold dust
+* Rotating zodiac wheel
+* Slow planetary orbit
+* Mandala rotation
+* Image reveal masks
+* Text reveal
+* Magnetic CTA buttons
+* Hover card elevation
+* Gold/Bhagwa glow effects
+* Smooth page transitions
+
+Animation speed should be elegant and cinematic.
+
+Avoid:
+
+* Excessive bouncing
+* Fast flashing
+* Distracting animations
+* Heavy animation on mobile
+
+Reduce particle and animation intensity on mobile for performance.
+
+---
+
+# MOBILE EXPERIENCE
+
+Mobile must be treated as a first-class design.
+
+Include:
+
+* Sticky Call button
+* Sticky WhatsApp button
+* Large readable typography
+* Touch-friendly cards
+* Optimized zodiac wheel
+* Collapsible navigation
+* Fast-loading images
+* Reduced particle effects
+* No horizontal scrolling
+
+---
+
+# TYPOGRAPHY
+
+Use a premium combination of:
+
+**Elegant serif/display font**
+for major headings.
+
+**Modern clean sans-serif**
+for body text and UI.
+
+Headings should feel:
+
+**Indian • Spiritual • Luxurious • Timeless**
+
+Avoid overly decorative fonts that reduce readability.
+
+---
+
+# IMAGE USAGE
+
+First inspect the project's:
+
+`images/`
+
+folder.
+
+Identify and appropriately use:
+
+* Astrologer Harsh Bhargava portrait
+* Provided logo
+* Any relevant astrology/Hindu visual assets
+
+Do not replace existing supplied assets with generic generated images unless necessary.
+
+Optimize all images for fast loading.
+
+Use modern image formats where possible.
+
+---
+
+# UI QUALITY
+
+The final website should look like it was created by a **high-end digital agency**.
+
+Use:
+
+* Generous whitespace
+* Strong visual hierarchy
+* Premium cards
+* Sophisticated shadows
+* Glassmorphism
+* Gold borders
+* Bhagwa glow
+* Smooth transitions
+* Consistent spacing
+* High-quality responsive layouts
+
+Avoid:
+
+* Generic templates
+* Cheap clipart
+* Excessive emojis
+* Neon colors
+* Blue/purple dominant themes
+* Fake statistics
+* Fake awards
+* Fake certifications
+* Fake reviews
+* Fake guarantees
+
+---
+
+# SEO
+
+Page title:
+
+**Astrologer Harsh Bhargava | Vedic Astrology & Personal Consultation**
+
+Meta description:
+
+**Consult Astrologer Harsh Bhargava for personalized Vedic astrology guidance related to career, marriage, relationships, business, Kundli and important life decisions.**
+
+Use:
+
+* Semantic HTML
+* One clear H1
+* Proper H2/H3 hierarchy
+* Image alt text
+* Fast loading
+* Responsive design
+* Structured data where appropriate
+* Proper Open Graph metadata
+
+---
+
+# FINAL BRAND IMPRESSION
+
+The final website should immediately communicate:
+
+### **ASTROLOGER HARSH BHARGAVA**
+
+### **VEDIC WISDOM • BHAGWA SPIRIT • MODERN GUIDANCE**
+
+The visual experience should feel like:
+
+**A sacred Hindu/Vedic atmosphere transformed into a sophisticated modern luxury website.**
+
+Primary visual identity:
+
+🟠 **Bhagwa**
+🟥 **Deep Maroon**
+🟡 **Antique Gold**
+⚫ **Black**
+🤍 **Warm Cream**
+
+Make the website **animated, cinematic, premium, mobile-first and conversion-focused**, while maintaining cultural respect and visual elegance.
